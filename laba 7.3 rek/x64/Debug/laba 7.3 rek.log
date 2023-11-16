@@ -1,0 +1,5 @@
+﻿  laba 7.3 rek.cpp
+C:\Users\ACER\source\repos\laba 7.3 rek\laba 7.3 rek\laba 7.3 rek.cpp(29,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\source\repos\laba 7.3 rek\laba 7.3 rek\laba 7.3 rek.cpp(141,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\source\repos\laba 7.3 rek\laba 7.3 rek\laba 7.3 rek.cpp(149): warning C4715: 'Sum': not all control paths return a value
+  laba 7.3 rek.vcxproj -> C:\Users\ACER\source\repos\laba 7.3 rek\x64\Debug\laba 7.3 rek.exe
